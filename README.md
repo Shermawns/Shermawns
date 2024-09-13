@@ -7,6 +7,8 @@
 <div align="center" style="background-color:#2c2f33; color:#00ffa1; padding:15px; border-radius:10px;">
     <p><em>“We may hope that machines will compete with men in all purely intellectual fields.”</em></p>
     <p><strong>- Alan Turing</strong></p>
+
+  <div style="width:100%;height:0;padding-bottom:88%;position:relative;"><iframe src="https://giphy.com/embed/l3978y5HqiEtqupiM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/space-pixel-art-planet-l3978y5HqiEtqupiM">via GIPHY</a></p>
 </div>
 
 <br>
