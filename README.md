@@ -1,5 +1,4 @@
 <a align= "center" href="https://git.io/typing-svg">
-  ![Header](./https://github.com/user-attachments/assets/b3f66fba-438d-4f30-9379-5e25308a9e0f)
   <img src="https://readme-typing-svg.demolab.com?font=montserrat&weight=800&size=34&duration=4000&pause=1000&color=4700F7&random=false&width=435&lines=Hello+World!" alt="Typing SVG" />
 </a>
 
