@@ -1,16 +1,37 @@
-## Hi there 👋
+<a align= "center" href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=montserrat&weight=800&size=34&duration=4000&pause=1000&color=4700F7&random=false&width=435&lines=Hello+World!" alt="Typing SVG" />
+</a>
 
-<!--
-**Shermawns/Shermawns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> "Olá! me chamo Shermann, sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por algoritmos e sempre buscando maneiras de melhorar minhas habilidades em Java e Spring. Gosto de entender como as coisas funcionam por trás dos panos, especialmente no desenvolvimento backend e bancos de dados. Estou focado em aprender e crescer para conquistar minha primeira vaga na área de tecnologia. Resolver problemas de forma inteligente e eficiente é o que mais me motiva, e essa busca constante por aprendizado é o que me mantém sempre em movimento.</p>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+
+  <iframe src="https://giphy.com/embed/l3978y5HqiEtqupiM" width="480" height="422" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/space-pixel-art-planet-l3978y5HqiEtqupiM">via GIPHY</a></p>
+
+# 💻 Tech Stack:
+
+<div align="left"><br>
+  
+  <img  height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"/>
+  <img  height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"/>
+  <img  height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg"/>
+  <img  height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg"/>
+  <img  height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg"/>
+  <img  height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg"/>
+
+</div>
+
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shermawns&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shermawns&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+## 🌐 Socials:
+   </p>
+   <a  href = "mailto:shermawns@gmail.com"><img align="left" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/shermann-barbosa-alc%C3%A2ntara-03b852272/" target="_blank"><img align="left" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
