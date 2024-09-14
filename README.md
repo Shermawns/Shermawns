@@ -2,7 +2,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&pause=1000&color=3B2CF7&width=435&lines=Hello+World!;My+name+is+Shermann!" alt="Typing SVG" />
 </a></a>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9d0fd0c4-5c7f-4122-b884-64a1e1685d2d" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="500">
+<br><br>
 
 <p></p>
 <br>
