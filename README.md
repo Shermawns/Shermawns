@@ -9,7 +9,7 @@
 
 <br>
 
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=chartreuse-dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
 
   <img align="right" height="190" width="350" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
