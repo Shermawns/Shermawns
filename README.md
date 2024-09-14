@@ -9,7 +9,7 @@
 
 <br>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)]
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
 
 # 💻 Tech Stack:
