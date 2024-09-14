@@ -7,9 +7,9 @@
 
 <p align="center"> "Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por algoritmos e sempre buscando maneiras de melhorar minhas habilidades em Java e Spring. Gosto de entender como as coisas funcionam por trás dos panos, especialmente no desenvolvimento backend e bancos de dados. Resolver problemas de forma inteligente e eficiente é o que mais me motiva, e essa busca constante por aprendizado é o que me mantém sempre em movimento.</p>
 
-<div align="center" style="background-color:#2c2f33; color:#00ffa1; padding:15px; border-radius:10px;">
-  [![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=nord)]
-</div>
+
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)]
 
 
 # 💻 Tech Stack:
