@@ -13,7 +13,6 @@
   
 </div>
 
-<br>
 
 # 💻 Tech Stack:
 
