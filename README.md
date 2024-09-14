@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=montserrat&weight=800&size=34&duration=4000&pause=1000&color=4700F7&random=false&width=435&lines=Hello+World!" alt="Typing SVG" />
   <img src="https://github.com/user-attachments/assets/13242fed-f9b5-4d17-9ffb-db2b0228c05e"" />
 </a>
-
+<p></p>
 <br>
 
 <p align="center"> "Olá! me chamo Shermann, sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por algoritmos e sempre buscando maneiras de melhorar minhas habilidades em Java e Spring. Gosto de entender como as coisas funcionam por trás dos panos, especialmente no desenvolvimento backend e bancos de dados. Resolver problemas de forma inteligente e eficiente é o que mais me motiva, e essa busca constante por aprendizado é o que me mantém sempre em movimento.</p>
