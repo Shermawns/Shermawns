@@ -5,7 +5,7 @@
 <p></p>
 <br>
 
-<p align="center"> "Olá! me chamo Shermann, sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por algoritmos e sempre buscando maneiras de melhorar minhas habilidades em Java e Spring. Gosto de entender como as coisas funcionam por trás dos panos, especialmente no desenvolvimento backend e bancos de dados. Resolver problemas de forma inteligente e eficiente é o que mais me motiva, e essa busca constante por aprendizado é o que me mantém sempre em movimento.</p>
+<p align="center"> "Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por algoritmos e sempre buscando maneiras de melhorar minhas habilidades em Java e Spring. Gosto de entender como as coisas funcionam por trás dos panos, especialmente no desenvolvimento backend e bancos de dados. Resolver problemas de forma inteligente e eficiente é o que mais me motiva, e essa busca constante por aprendizado é o que me mantém sempre em movimento.</p>
 
 <div align="center" style="background-color:#2c2f33; color:#00ffa1; padding:15px; border-radius:10px;">
     <p><em>“We may hope that machines will compete with men in all purely intellectual fields.”</em></p>
