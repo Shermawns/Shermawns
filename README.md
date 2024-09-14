@@ -5,11 +5,11 @@
 <p></p>
 <br>
 
-<p align="center"> "Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por algoritmos e sempre buscando maneiras de melhorar minhas habilidades em Java e Spring. Gosto de entender como as coisas funcionam por trás dos panos, especialmente no desenvolvimento backend e bancos de dados. Resolver problemas de forma inteligente e eficiente é o que mais me motiva, e essa busca constante por aprendizado é o que me mantém sempre em movimento.</p>
+<p align="center"> Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por algoritmos e sempre buscando maneiras de melhorar minhas habilidades em Java, Spring e Banco de dados. Resolver problemas de forma inteligente e eficiente é o que mais me motiva, e essa busca constante por aprendizado é o que me mantém sempre em movimento.</p>
 
 <br>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)
 
   <img align="right" height="190" width="350" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
